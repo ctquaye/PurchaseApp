@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ListApp</string>
+
+    <string-array name="fruits">
+        <item>apple</item>
+        <item>mango</item>
+        <item>water-melon</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.77</item>
+        <item>$0.90</item>
+        <item>$1.71</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>fresh apple from Georgia</item>
+        <item>fresh mangoes from The Tropics</item>
+        <item>fresh water melons from Hawaii</item>
+    </string-array>
+
+</resources>
